@@ -1,5 +1,5 @@
 # Composable Governance Day
-MIT Media Lab Workshop on Composable Governance as a Functional Area of Computational Law
+MIT Media Lab [Workshop on Composable Governance](https://legalcomponents.github.io/ComposableGovernance) as a Functional Area of Computational Law
 
 This invite-only workshop will provide a forum to explore composable governance in the contexts of legal tech, business automation, and web3.  We'll add content to this event page as in the weeks and days leading up to the event.
 
