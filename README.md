@@ -6,4 +6,5 @@ This invite-only workshop will provide a forum to explore composable governance 
 * June 29th, 2020 at 11AM - 4PM ET
 * MIT Media Lab, 20 Ames Street, Cambridge, MA 02139
 
-For reference, see also the ongoing work of the [MIT Computational Law Report on the idea of Composable Governance](https://law.mit.edu/composablegovernance).
+For reference, see also the ongoing work of the [MIT Computational Law Report on the idea of Composable Governance](https://law.mit.edu/composablegovernance).  Also, see the session on [Composable Governance at the Stanford Law "DAOs and Systems for Resilient Societies" event](https://conferences.law.stanford.edu/futurelaw2022/related-events) held on April 8th, 2022 in conjunction with the CodeX FutureLaw anual conference. 
+
