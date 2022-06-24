@@ -1,10 +1,11 @@
-# Composable Governance Day
-MIT Media Lab [Workshop on Composable Governance](https://legalcomponents.github.io/ComposableGovernance) as a Functional Area of Computational Law
+# Idea Forum on Composable Governance
 
-This invite-only workshop will provide a forum to explore composable governance in the contexts of legal tech, business automation, and web3.  We'll add content to this event page as in the weeks and days leading up to the event.
+MIT Computational Law Report's [Idea Forum on Composable Governance](https://legalcomponents.github.io/ComposableGovernance) as a Functional Area of Computational Law
 
-* June 29th, 2022 at 11AM - 4PM ET
-* MIT Media Lab, 20 Ames Street, Cambridge, MA 02139
+This invite-only online event will provide a forum to explore composable governance in the contexts of legal tech, business automation, and web3.  
+
+* June 29th, 2022 at 1:30 - 2:30 PM ET
+* Zoom (link to be provided to invited guests and speakers)
 
 For reference, see also the ongoing work of the [MIT Computational Law Report on the idea of Composable Governance](https://law.mit.edu/composablegovernance).  Also, see the session on [Composable Governance at the Stanford Law "DAOs and Systems for Resilient Societies" event](https://conferences.law.stanford.edu/futurelaw2022/related-events) held on April 8th, 2022 in conjunction with the CodeX FutureLaw anual conference. 
 
